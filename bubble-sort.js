@@ -1,3 +1,5 @@
+// O(n^2)
+
 class Solution {
     static bubbleSort(arr) {
         let n = arr.length;
